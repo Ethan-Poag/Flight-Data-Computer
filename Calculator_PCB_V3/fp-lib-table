@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Adafruit TCA8418")(type "KiCad")(uri "${KIPRJMOD}/Adafruit TCA8418.pretty")(options "")(descr ""))
+  (lib (name "Adafruit ESP32 Feather V2")(type "KiCad")(uri "${KIPRJMOD}/Adafruit ESP32 Feather V2.pretty")(options "")(descr ""))
+)

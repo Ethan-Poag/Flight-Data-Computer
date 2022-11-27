@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Adafruit TCA8418-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Adafruit TCA8418.pretty/Adafruit TCA8418-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Adafruit ESP32 Feather V2-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Adafruit ESP32 Feather V2.pretty/Adafruit ESP32 Feather V2-eagle-import.kicad_sym")(options "")(descr ""))
+)
